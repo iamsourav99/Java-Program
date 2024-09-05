@@ -1,0 +1,53 @@
+Write simple programs based on basic syntactical constructs of Java like: 
+a) Operators and expressions. 
+b) Looping statements. 
+c) Decision making statements. 
+d) Type casting. 
+2. Write a simple Java program to demonstrate use of command line arguments in Java.. 
+3. Write a Java Program to define a class, describe its constructor, overload the constructors and 
+instantiate its object 
+4. Write a Java Program to define a class, define instance methods for setting and retrieving values of 
+instance variables and instantiate its object 
+5. Write a Java Program to define a class, define instance methods and overload them and use them for 
+dynamic method invocation. 
+6. Write a Java Program to demonstrate use of sub class 
+7. Write a Java Program to demonstrate use of nested class. 
+8.Write a Java Program to practice 
+- use of single Dimensional array. 
+- use of multidimensional array. 
+9. Write a Java Program to implement array of objects. 
+10.Write a Java program to practice 
+- using String class and its methods. 
+- using String Buffer class and its methods. 
+11. Write a Java Program to implement Vector class and its methods. 
+12. Write a Java Program to implement Wrapper classes and their methods. 
+13. Write a Java Program to implement single inheritance by applying various access controls to its data 
+members and methods. 
+14. Write a Java Program to implement multilevel inheritance by applying various access controls to its data 
+members and methods. 
+15. Write a Java Program to implement inheritance and demonstrate use of method overriding. 
+16.Write a program to demonstrate 
+- Use of implementing interfaces. 
+West Bengal State Council of Technical Education 
+(A Statutory Body under West Bengal Act XXI of 1995) 
+Kolkata Karigori Bhavan, 2nd Floor, 110 S. N. Banerjee Road, Kolkata - 700 013. 
+- Use of extending interfaces.
+17. Write a Java program to implement the concept of importing classes from user defined package and 
+creating packages. 
+18. Write a program to implement the concept of threading. 
+19.Write a program to implement the concept of Exception Handling 
+- using predefined exception. 
+- by creating user defined exceptions. 
+20.Write a program to implement the concept of Synchronization for 
+- object synchronization. 
+- Method synchronization. 
+21.Write a program using Applet 
+- To display a message in the Applet. 
+- For configuring Applets by passing parameters. 
+22.Write programs for using Graphics class 
+- To display basic shapes and fill them. 
+- draw different items using basic shapes 
+- set background and foreground colours. 
+23. Write program to demonstrate use of I/O streams. 
+24. 14 Write an Application program /Applet to make connectivity with database using JDBC API. 
+25. Write an Application program/Applet to send queries through JDBC bridge & handle result.

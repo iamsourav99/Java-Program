@@ -1,0 +1,5 @@
+package lab_week_7;
+
+public enum days {
+SUNDAY,MONDAY,TUESDAY,WEDNESDAY,THRUSDAY,FRIDAY,SATURDAY;
+}
